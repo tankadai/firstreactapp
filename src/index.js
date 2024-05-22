@@ -13,7 +13,7 @@ const MyComponent = () => {
         <a href="/Resume.pdf" download="MyCV.pdf">
           <button>Download CV</button>
         </a>
-        <a href="/tanka2017.png" download="tanka2017.png">
+        <a href="/public/tanka2017.png" download="tanka2017.png">
           <button>Download Image</button>
         </a>
       </div>
